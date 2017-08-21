@@ -27,18 +27,18 @@
             android:required="true"/>
 
         <activity android:name=".location.starting.MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".location.Deeper.DeepLocation">
 
         </activity>
 
         <activity android:name="Map.StartedMAp.StartedMAp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
 
     </application>
