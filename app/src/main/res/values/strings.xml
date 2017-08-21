@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlayServices</string>
+    <string name="title_location_permission">Location Requiered</string>
+    <string name="text_location_permission">please turn on location</string>
+    <string name="ok">Ok</string>
+    <string name="action_settings">Setting</string>
+    <string name="alertTitle">Location Grant Required</string>
+    <string name="alertMessage">please Turn on Locaiton</string>
+</resources>
